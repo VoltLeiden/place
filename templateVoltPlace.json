@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Volt logo",
+      "sources": [
+        "https://raw.githubusercontent.com/VoltLeiden/place/main/VoltPlace.png"
+      ],
+      "x": 1307,
+      "y": 1631
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
